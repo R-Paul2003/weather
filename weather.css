@@ -63,7 +63,7 @@ body
     padding:50px 10px;
     position: relative;
     z-index: 1;
-    color: white;
+    color: yellow;
 
 }
 .frontpage-contents::before
@@ -92,7 +92,7 @@ body
     padding: 10px 30px;
     border-radius: 35px;
     font-weight: bold;
-    color: black;
+    color: violet;
     border: none;
     margin-bottom: 20px;
     position: relative;
@@ -103,8 +103,8 @@ body
 }
 .getting-started-btn:hover
 {
-    background: black;
-    color: white;
+    background: violet;
+    color: yellow;
 }
 .getting-started-btn::before
 {
@@ -166,7 +166,7 @@ body
 {
     font-size: 14px;
     padding: 10px 15px;
-    background:white;
+    background:yellow;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
     border-radius: 5px;
     border:none;
@@ -180,7 +180,7 @@ body
 }
 .searchBtn:hover
 {
-    background: black;
+    background: violet;
 }
 .searchBtn::before
 {
@@ -213,7 +213,7 @@ body
     justify-content: center;
     column-gap: 4px;
     margin: 10px auto;
-    color:darkviolet;
+    color:black;
 }
 .weather-Degree
 {
@@ -254,14 +254,14 @@ body
 .weather-Degree h2
 {
     margin-bottom: 5px;
-    color: white;
+    color: yellow;
     letter-spacing: 0.8px;
     text-transform: capitalize;
 }
 .weather-pallete
 {
     width: 95%;
-    background: white;
+    background: yellow;
     padding: 15px 10px;
     border-radius: 5px;
     margin: 20px auto;
